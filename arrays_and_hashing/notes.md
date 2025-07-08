@@ -1,0 +1,1 @@
+if the problem involves duplicates, think about hash maps  
